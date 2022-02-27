@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Humble address to the truly loyal citizens of London by a true lover of his king and countrey ; with a candid reprehension to the Intelligencer at the Stationers Arms in the Piazza under the Royal Exchange in Cornhil.</title>
+            <author>True lover of his king and countrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86722</idno>
+            <idno type="STC">Wing H3391A</idno>
+            <idno type="STC">ESTC R42749</idno>
+            <idno type="EEBO-CITATION">38875698</idno>
+            <idno type="OCLC">ocm 38875698</idno>
+            <idno type="VID">152285</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152285)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2290:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Humble address to the truly loyal citizens of London by a true lover of his king and countrey ; with a candid reprehension to the Intelligencer at the Stationers Arms in the Piazza under the Royal Exchange in Cornhil.</title>
+                  <author>True lover of his king and countrey.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of the press --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <div type="address">
+               <pb facs="tcp:152285:1"/>
+               <pb n="1" facs="tcp:152285:1" rendition="simple:additions"/>
+               <head>An Humble ADDRESS To the truly Loyal Citizens of London, By a True Lover of his KING and COUNTREY; With a Candid Reprehenſion to the <hi>Intelligencer</hi> at the <hi>Stationers Arms</hi> in the <hi>Piazza</hi> under the <hi>Royal Exchange</hi> in <hi>Cornhil.</hi>
+               </head>
+               <epigraph>
+                  <q>He that ſpeaketh Evil of Kings, Princes, and Magiſtrates, will be as Simple as he is Wicked, to be offended and not amend, when he is juſtly and moderately corrected.</q>
+               </epigraph>
+               <opener>
+                  <salute>Gentlemen and Fellow Citizens,</salute>
+               </opener>
+               <p>I Am not ignorant that whatever comes forth in Print, if it be, <hi>cum</hi> or <hi>ſine Privilegio,</hi> although it aſſert Allegiance to the King and Obedience to the Magiſtrates, yet now adays it is <hi>A la mode</hi> to Libel it, and for every pitiful Mechanick Fellow to become a Cenſurer, <hi>Tempora mutantur;</hi> At the Beginning it was not ſo. It is now a great faſhion for ſuch ſcurrilous Perſons, to be the Common Mouth in Defaming the beſt of our Governours; by villifying the Government, diſliking every thing which is contra<g ref="char:EOLhyphen"/>ry to the fooliſh <hi>Idea</hi> of their own minds; but from Men of ſuch factious and turbulent Spirits; <hi>Libera nos domine:</hi> Certainly it is worthy our moſt ſerious Conſideration, the ſhameful Actions done by ſome of our Fellow Citizens, whoſe Courage and Deportment to our Loyal Lord Mayor, and ſome of our truly Loyal Governours, then ſitting upon the Bench: What is the reaſon that our brave Sir <hi>Joſeph Sheldon,</hi> or Loyal <hi>Turner,</hi> muſt be deſpiſed at the great Solemni<g ref="char:EOLhyphen"/>ty of our laſt Election of <hi>Burgeſſes?</hi> We have too great cauſe to con<g ref="char:EOLhyphen"/>ceive that thoſe hiſſing Perſons that were there preſent, are the ve<g ref="char:EOLhyphen"/>ry Encouragers and Promoters of Faction and Sedition; and that when opportunity ſerves we muſt feel the poyſonous Sting that is in their Tails: But we live not, thanks be to Almighty God, and our moſt gracious King, in ſo miſerable an Age, that we need fear to utter Truth without a diſguiſe. Surely many then pre<g ref="char:EOLhyphen"/>ſent,
+<pb n="2" facs="tcp:152285:2"/>were not <hi>Compos mentis;</hi> that is the moſt charitable Excuſe that can be made: otherwiſe they would not have reproached and branded their Magiſtrates with falſe and opprobrious Language. I may I hope, without offence in this circumſtance, uſe the ſaying of the ever renowned Lord Chancellor; <hi>Publiſh it not in</hi> Gath, <hi>nor let it be declared in the Streets of</hi> Askelon. Can we ever expect Gods Benediction, whil'ſt we contemn the Magiſtrates he hath ſet over us. It is a true ſaying, <hi>Herba creſcit ſatis, quae nil habet uti<g ref="char:EOLhyphen"/>litalis.</hi> Such Perſons would have the mark of the Beaſt ſet on them, that Good and Loyal Subjects may ſhun them with an, <hi>Oh procul eſte profani</hi> —</p>
+               <lg>
+                  <l>
+                     <hi>What ails the Fates, what moves the wandring Stars,</hi>
+                  </l>
+                  <l>
+                     <hi>That cauſe theſe Earthly Tumults and theſe Jars?</hi>
+                  </l>
+                  <l>
+                     <hi>Are Men grown with Paſſion now ſo proud,</hi>
+                  </l>
+                  <l>
+                     <hi>That their fond Humours muſt be heard ſo loud.</hi>
+                  </l>
+                  <l>
+                     <hi>Shall not theſe worthy Perſons nam'd be,</hi>
+                  </l>
+                  <l>
+                     <hi>And muſt we Cavil at their Loyalty?</hi>
+                  </l>
+                  <l>
+                     <hi>Happy are thoſe Men that have the Kings Regard,</hi>
+                  </l>
+                  <l>
+                     <hi>And Crown'd is he that hath the Kings Reward.</hi>
+                  </l>
+               </lg>
+               <p>Pardon this ſmall Digreſſion from my intended purpoſe, I ſhall now come <hi>ad rem.</hi> It is to you Fellow Citizens that I ſhall now ad<g ref="char:EOLhyphen"/>dreſs my ſelf: I ſhall not Apologize for my ſelf upon the account of my enſuing Diſcourſe; for <hi>Veritas non quaerit Angulos.</hi> I fear not the Frowns nor the Threats, nor the Cenſures of any ſelf-conceited Cox-comb, nor Humoriſt whatſoever; my humble requeſt is to you, my dear Fellow Citizens, that you would now in this juncture of time, continue to make evident Demonſtrations to the whole Uni<g ref="char:EOLhyphen"/>verſe of your Heroick and Magnanimous Reſolutions to fear God and honour the King, and joyn not with any turbulent Spirits, who are given to change. How many are there now a-days that make it their whole Buſineſs and Deſign to ſow Diſcords and Diviſions amongſt us, by the many ſcurrilous Pamphlets that daily appear in Print; you may perceive that Greatneſs it ſelf cannot, <hi>Omnibus horis,</hi> ſe<g ref="char:EOLhyphen"/>curely paſs, but ſometimes it is the Butt of Envy and Detraction, and meets with unhappy Vituperation, <hi>Ah dolor &amp; ſit pro dolore, mi<g ref="char:EOLhyphen"/>rum videtur.</hi> It muſt needs be ſtrange, that in ſo well-governed and regulated a City as ours is, and in the face of ſo many of our Loyal Magiſtrates, ſo many baſe and ſcurrilous Pamphlets are permitted, without any puniſhment. Were but the Advice of our Loyal and Learned Recorder put in practice, which he gave upon the Election of our late Lord Mayor, Faction would then be buried in Oblivion; then we might hope to ſee a Reſurrection of the Golden Age again: then we might expect Peace and Plenty and Proſperity, to co-habit amongſt us. I muſt declare it, and without any Oſtentation or Flatte<g ref="char:EOLhyphen"/>ry, it deſerves to be written in Letters of Gold, notwithſtanding the ill Reſentment ſome Turbulent Spirits were pleaſed to paſs upon it; but it is evident that many ill-minded men are ſo wedded to their Rebellious Principles, which they have formerly imbibed, that no<g ref="char:EOLhyphen"/>thing will prevail with them to be metamorphoſed; but that Ancient
+<pb n="3" facs="tcp:152285:2" rendition="simple:additions"/>Proverbial Saying muſt be verified, <hi>Immedicabileulnus euſe reſcinden<g ref="char:EOLhyphen"/>dum eſt ne pars ſincera trahaiur,</hi> a few Scabby Sheep ſpoil the whole Flock. I am ſorry to ſee the Governours of our Church vilified, witneſs the Weekly Packet <hi>October</hi> 3. 1679. And as for our <hi>Intelligencer,</hi> it is a great Scandal to our Renowned City, that ſuch an Impudent Sawcy Fellow ſhould ſo audaciouſly aſſume to himſelf, <hi>in conſpectu to<g ref="char:EOLhyphen"/>tius Mundi,</hi> to abuſe Perſons of Worth, as he hath frequently done in ſeveral of his Intelligences, and then to ſay <hi>Erravi,</hi> that he ac<g ref="char:EOLhyphen"/>counts Compenſation enough (witneſs his abuſing Sir <hi>Gervis Elways</hi> and his Friend, in ſaying, That giving Money and Drink, cauſed them to be Elected. What an high Aſperſion hath he caſt upon thoſe Worthy Gentlemen, and upon the Electors likewiſe that choſe them? And what a baſe Aſperſion did he caſt likewiſe upon <hi>Samuel Pepys</hi> E<g ref="char:EOLhyphen"/>ſquire, and then cried <hi>Peccavi,</hi> and thinks that ſatisfaction enough. It is likewiſe ſaid, That our Lord Mayor, out of his great Circum<g ref="char:EOLhyphen"/>ſpection, Care, and Loyalty, gave this <hi>Intelligencer</hi> an Order to ſeize all Factious Pamphlets, and he being Factious himſelf, perverts his Lordſhips Deſign, and winks at the Factious ones and ſtifles the other; and hath the Audacity to think he ſhall now go on uncontrouled; brag<g ref="char:EOLhyphen"/>ging he hath a Licence till the 26th of <hi>January</hi> next. I would not be accounted arrogant, neither will I be ſo ſawcy, to undertake to preſcribe Methods to our Governours; but if our preſent Laws, or the Power of our Magiſtrates, cannot put a ſtop to theſe Seditious Pam<g ref="char:EOLhyphen"/>phlets, I hope at the Convention of our Sage and Prudent Senators, they will take it into their ſpeedy Conſideration.</p>
+               <p>How often hath the Gazettes taken notice of his Lying News, and yet he goes on with as great Impudence as ever, as if it were <hi>Cum Privilegio;</hi> but I hope he will be made to recant openly, where the World may ſee him.</p>
+               <p>It is well known to all Sober and Ingenious Citizens, who are not <hi>Jenkiſmed,</hi> that our Clergy have a Conſtellation of Theological and Heroical Vertues, not onely in their Doctrine, but Unity in their Lives, and Converſation: And they are Armour Proof againſt all Gain-ſayers; and I fear our Intelligencer will have need of an <hi>Amneſty</hi> or an Act of Oblivion for his many <hi>Scandala magnata,</hi> by him publiſhed: but <hi>Praemonitus praemunitus.</hi> Let the renowned Speech of that Illu<g ref="char:EOLhyphen"/>ſtrious Knight Sir <hi>Robert Clayton,</hi> be remembered <hi>in Memoria ſecu<g ref="char:EOLhyphen"/>iorum omnium;</hi> and let the Counſel therein be heartily imbraced by all Loyal Citizens: then we may expect <hi>Halcion</hi> Days within our City, which God of his Mercy grant: then that excellent ſaying will be veri<g ref="char:EOLhyphen"/>fied, <hi>Concordia parvae res creſcunt, diſcordia maxima dilabuntur.</hi> If that Perſian Monarch <hi>Artaxerxes,</hi> with a willing Gratitude and a graceful Will, imbraced ſo mean a preſent as a Diſh of Cold Wa<g ref="char:EOLhyphen"/>ter from ſo unworthy a Vaſſal as <hi>Cyneta;</hi> I doubt not but you my Fellow Citizens will kindly accept of my <hi>Addreſs,</hi> and follow the good Advice of being True and Loyal to our King, and Obedient to Governours, and to live in Unity one with another.</p>
+               <closer>
+                  <signed>VALE.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <pb n="4" facs="tcp:152285:3"/>
+               <head>POSTSCRIPT.</head>
+               <l>READER be kind, and when thou ſeest theſe Lines,</l>
+               <l>Thou'lt ſurely cenſure Poetry declines.</l>
+               <l>Be impartial in thy Judgment and conſider</l>
+               <l>How ere uſurpt, the Lawrel doth not wither.</l>
+               <l>Neither impute that Science is decay'd,</l>
+               <l>Which unripe Wits endeavour to invade.</l>
+               <l>Rather blame the Impudence of him that tries</l>
+               <l>To act againſt what Nature him denies.</l>
+               <l>But ſince it's frequent to direct her Laws,</l>
+               <l>I'll crave Indulgence for another Cauſe.</l>
+               <l>'Tis ſtrange to me to ſee revenging Sheets,</l>
+               <l>
+                  <hi>Lamb</hi>'s Conduit Paper that in Duels meets.</l>
+               <l>Nor dare I now preſume to make preſage,</l>
+               <l>How preſent Influences threat this Age.</l>
+               <l>The <hi>New World</hi>'s Old, ſince <hi>Noah</hi>'s Flood,</l>
+               <l>And moſt too Old therein for to be good.</l>
+               <l>Methinks I ſee most in that Evil Mood,</l>
+               <l>Though having Manna, yet crave Quails for Food.</l>
+               <l>Some new fond Sight, or ſome rare fine Show,</l>
+               <l>This gazing World expects below.</l>
+               <l>Now give me leave, kind Reader, to intreat</l>
+               <l>Thy good Conſtruction makes my Lines compleat.</l>
+               <l>Hoping that ſuch the <g ref="char:V">Ʋ</g>nion be reſerv'd,</l>
+               <l>Which hath ſo long ſo careful been preſerv'd</l>
+               <l>From being broke; as Knaves hope and Fools fear it,</l>
+               <l>Conclude with me, <hi>Quis medio tutus erit?</hi>
+               </l>
+               <closer>
+                  <signed>Amator Patriae.</signed>
+               </closer>
+            </div>
+            <div type="character">
+               <head>The Character of a Factious Libeller.</head>
+               <p>HE is one that has nothing to do with his Buſineſs, and yet no Man buſier than he, and his Buſineſs is moſt in his Face: He is one that forceth himſelf into all Company and Affairs, without being ſent for or feed; his part is only an eager buſtling, that rather keeps a-do than does any thing. His Diſcourſe ſtuffed up with Faction, ſpeaketh ill of His Majeſty and his beſt Subjects; hath a diſlike of all Government and Magiſtrates: Commends much his own Chimaera's, by which you may track him; at the end maketh himſelf, with a great deal of endeavour ridiculous. The Worm in his Brain hath put him quite be<g ref="char:EOLhyphen"/>ſide his Nature: He cannot be what he would, and hath forgot what he was. He is one that muſt be principal Actor in every Trifle. A Man very Contemplative, or rather very Active in his Bed, where he can do more by his Contrivances, than ſix men at Work; where we will leave him, till he hath ſpun Thread enough to make him faſt as long as he ſhall live.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152285:3" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
